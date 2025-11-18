@@ -11,12 +11,13 @@
 
 I'm a Active Directory and Web App Pentester. I'm also a Technical Writer.
 I help test and secure enterprise systems, and also create clear, practical technical documentation to help others learn and build real-world security skills.
+Most of my technical writing lives at: [hackwithdeesick.com](https://hackwithdeesick.com/)
 
 - 💻 **Role:** Pentester & Web App Security Engineer  
 - 🔥 Currently grinding: AD attacks, Web App Security, Linux privilege escalation on HackTheBox
 - 📚 CPTS | CRTP | OSWE on the horizon 🤞🏽  
 - 🎸 I also produce music when I'm not breaking applications 🎶  
-- 🎯 Fun fact: I create great tech content on TikTok and YouTube  
+- 🎯 Fun fact: I create great tech content on [TikTok](https://tiktok.com/hackwithdeesick) and YouTube
 
 
 ## 🛠️ **Languages & Tools**
@@ -71,17 +72,6 @@ I help test and secure enterprise systems, and also create clear, practical tech
 <!-- Reversing / Forensics -->
 <p>
   <img src="https://img.shields.io/badge/Binwalk-4b8bbe?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-## 🌐 My Website & TikTok
-
-<p>
-  <a href="https://hackwithdeesick.com">
-    <img src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://tiktok.com/@hackwithdeesick">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
 </p>
 
 
