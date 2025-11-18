@@ -18,10 +18,11 @@ I help test and secure enterprise systems, and I create clear, practical technic
 - 🎸 I also produce music when I'm not breaking applications 🎶  
 - 🎯 Fun fact: I create great tech content on TikTok and YouTube  
 
+
 ## 🛠️ **Languages & Tools**
 <!-- Core Languages & Platforms -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,parrotOS,bash,powershell,python,php,js,html,markdown,css,windows,github,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,python,php,js,html,markdown,css,windows,github,docker" />
 </p>
 
 <!-- Web Pentesting / Recon Tools -->
@@ -72,19 +73,18 @@ I help test and secure enterprise systems, and I create clear, practical technic
   <img src="https://img.shields.io/badge/Binwalk-4b8bbe?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
 
 ## 📊 **Most Used Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
 
----
+
 
 ## 📈 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deesick&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deesick&theme=tokyonight)
 
----
+
 
 ## 🏆 **GitHub Achievements**
 ![trophy](https://github-profile-trophy.vercel.app/?username=deesick&theme=tokyonight&margin-w=10)
