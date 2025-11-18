@@ -18,11 +18,10 @@ I help test and secure enterprise systems, and I create clear, practical technic
 - 🎸 I also produce music when I'm not breaking applications 🎶  
 - 🎯 Fun fact: I create great tech content on TikTok and YouTube  
 
----
 ## 🛠️ **Languages & Tools**
 <!-- Core Languages & Platforms -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,python,php,js,html,markdown,css,windows,github,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,parrot,bash,powershell,python,php,js,html,markdown,css,windows,github,docker" />
 </p>
 
 <!-- Web Pentesting / Recon Tools -->
