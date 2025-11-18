@@ -9,13 +9,13 @@
 
 <h1 align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Deesick</h1>
 
-I'm a Cybersecurity Professional and Web App Pentester in training.  
-I break apps, build secure systems, and write walkthroughs for Hack The Box.
+I'm a Cybersecurity Professional and Web App Pentester in training.
+I help test and secure enterprise systems, and I create clear, practical technical documentation to help others learn and build real-world security skills.
 
 - 💻 **Role:** Pentester & Web App Security Engineer  
-- 🔥 Currently grinding: AD attacks, Web App Security, Linux privilege escalation on HackTheBox  
-- 🎸 Sometimes I make music + learning guitar + producing Afrobeats 🎶  
+- 🔥 Currently grinding: AD attacks, Web App Security, Linux privilege escalation on HackTheBox
 - 📚 CPTS | CRTP | OSWE on the horizon 🤞🏽  
+- 🎸 I also produce music when I'm not breaking applications 🎶  
 - 🎯 Fun fact: I create great tech content on TikTok and YouTube  
 
 ---
@@ -92,16 +92,6 @@ I break apps, build secure systems, and write walkthroughs for Hack The Box.
 ![trophy](https://github-profile-trophy.vercel.app/?username=deesick&theme=tokyonight&margin-w=10)
 
 ---
-
-**Deesick/deesick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
