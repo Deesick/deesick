@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">Hey! I'm Deesick</h1>
+<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Deesick</h1>
 
 I'm a Cybersecurity Professional and Web App Pentester in training.  
 I break apps, build secure systems, and write walkthroughs for Hack The Box.
