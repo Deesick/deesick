@@ -10,7 +10,9 @@
 <h1 align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Deesick</h1>
 
 I'm a Active Directory and Web App Pentester. I'm also a Technical Writer.
+
 I help test and secure enterprise systems, and also create clear, practical technical documentation to help others learn and build real-world security skills.
+
 Most of my technical writing lives at: [hackwithdeesick.com](https://hackwithdeesick.com/)
 
 - 💻 **Role:** Pentester & Web App Security Engineer  
