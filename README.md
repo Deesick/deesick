@@ -77,7 +77,7 @@ I help test and secure enterprise systems, and also create clear, practical tech
 
 <p align="center">
   <a href="https://hackwithdeesick.com"> 
-    <img src="favicon.png" width="40px" alt="HackwithDeesick">
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/cursor.gif" width="40px" alt="HackwithDeesick">
   </a>
   <a href="https://tiktok.com/@hackwithdeesick">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
