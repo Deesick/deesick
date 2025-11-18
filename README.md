@@ -6,22 +6,22 @@
   <a href="https://twitter.com/deesick_"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
 </p>
 
-<h1 align="center">Hey! 👋 I'm YOUR NAME</h1>
+<h1 align="center">Hey! 👋 I'm Deesick</h1>
 
 I'm a Cybersecurity Professional and Web App Pentester in training.  
 I break apps, build secure systems, and write walkthroughs for Hack The Box.
 
-- 💻 **Role:** Aspiring Pentester & Web App Security Engineer  
-- 🔥 Currently grinding: AD attacks, SQLi automation, Linux privilege escalation  
-- 🎸 Learning guitar + producing Afrobeats 🎶  
-- 📚 CPTS | BSCP | CRTP on the timeline  
+- 💻 **Role:** Pentester & Web App Security Engineer  
+- 🔥 Currently grinding: AD attacks, Web App Security, Linux privilege escalation
+- 🎸 Sometimes I make music + Learning guitar + producing Afrobeats 🎶  
+- 📚 CPTS | BSCP | CRTP | OSWE on the horizon 🤞🏽
 - 🎯 Fun fact: I love creating tech content on TikTok
 
 ---
 
 ## 🛠️ **Languages & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,js,mysql,git,github,windows,aws,azure,nginx,react" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,js,mysql,git,github,windows,aws,azure,nginx,markdown" />
 </p>
 
 ---
