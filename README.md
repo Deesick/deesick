@@ -19,7 +19,6 @@ I help test and secure enterprise systems, and I create clear, practical technic
 - 🎯 Fun fact: I create great tech content on TikTok and YouTube  
 
 ---
-
 ## 🛠️ **Languages & Tools**
 <!-- Core Languages & Platforms -->
 <p align="left">
@@ -90,4 +89,3 @@ I help test and secure enterprise systems, and I create clear, practical technic
 
 ## 🏆 **GitHub Achievements**
 ![trophy](https://github-profile-trophy.vercel.app/?username=deesick&theme=tokyonight&margin-w=10)
--->
