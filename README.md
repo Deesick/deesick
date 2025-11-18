@@ -1,4 +1,6 @@
-## Hi there 👋
+<h2 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h2>
 
 <!--<!-- Social media buttons -->
 <p align="center">
@@ -81,14 +83,14 @@ I break apps, build secure systems, and write walkthroughs for Hack The Box.
 ---
 
 ## 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deesick&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deesick&theme=tokyonight)
 
 ---
 
 ## 🏆 **GitHub Achievements**
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=deesick&theme=tokyonight&margin-w=10)
 
 ---
 
