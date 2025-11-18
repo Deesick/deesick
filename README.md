@@ -77,7 +77,7 @@ Most of my technical writing lives at: [hackwithdeesick.com](https://hackwithdee
 
 
 ## 📊 **Most Used Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deesick&layout=compact&theme=tokyonight)
 
 
 
