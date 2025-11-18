@@ -9,8 +9,8 @@
 
 <h1 align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Deesick</h1>
 
-I'm a Cybersecurity Professional and Web App Pentester in training.
-I help test and secure enterprise systems, and I create clear, practical technical documentation to help others learn and build real-world security skills.
+I'm a Active Directory and Web App Pentester. I'm also a Technical Writer.
+I help test and secure enterprise systems, and also create clear, practical technical documentation to help others learn and build real-world security skills.
 
 - 💻 **Role:** Pentester & Web App Security Engineer  
 - 🔥 Currently grinding: AD attacks, Web App Security, Linux privilege escalation on HackTheBox
