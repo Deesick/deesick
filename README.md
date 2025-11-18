@@ -73,6 +73,17 @@ I help test and secure enterprise systems, and also create clear, practical tech
   <img src="https://img.shields.io/badge/Binwalk-4b8bbe?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+## 🌐 My Website & TikTok
+
+<p align="center">
+  <a href="https://hackwithdeesick.com">
+    <img src="https://img.shields.io/badge/My%20Website-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://tiktok.com/@hackwithdeesick">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+</p>
+
 
 ## 📊 **Most Used Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
