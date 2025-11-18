@@ -40,7 +40,6 @@ I break apps, build secure systems, and write walkthroughs for Hack The Box.
 <!-- API Testing -->
 <p>
   <img src="https://img.shields.io/badge/Postman-f76935?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000bf?style=for-the-badge&logo=insomnia&logoColor=white"/>
 </p>
 
 <!-- Password Attacks -->
