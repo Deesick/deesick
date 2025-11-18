@@ -1,8 +1,5 @@
-<h2 align="center">
-  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h2>
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-<!--<!-- Social media buttons -->
 <p align="center">
   <a href="https://linkedin.com/in/deesick"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/deesick_"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
