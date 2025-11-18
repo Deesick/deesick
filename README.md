@@ -12,17 +12,15 @@ I'm a Cybersecurity Professional and Web App Pentester in training.
 I break apps, build secure systems, and write walkthroughs for Hack The Box.
 
 - 💻 **Role:** Pentester & Web App Security Engineer  
-- 🔥 Currently grinding: AD attacks, Web App Security, Linux privilege escalation
+- 🔥 Currently grinding: AD attacks, Web App Security, Linux privilege escalation on HackTheBox
 - 🎸 Sometimes I make music + Learning guitar + producing Afrobeats 🎶  
-- 📚 CPTS | BSCP | CRTP | OSWE on the horizon 🤞🏽
-- 🎯 Fun fact: I love creating tech content on TikTok
+- 📚 CPTS | CRTP | OSWE on the horizon 🤞🏽
+- 🎯 Fun fact: I create great tech content on TikTok and YouTube
 
 ---
 
 ## 🛠️ **Languages & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,js,mysql,git,github,windows,aws,azure,nginx,markdown" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,python,php,js,html,css" /> <br/> <img src="https://skillicons.dev/icons?i=git,github,nginx,apache,nodejs,react,docker" /> </p> <p> <img src="https://img.shields.io/badge/Nmap-2596be?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/BurpSuite-ff6f00?style=for-the-badge&logo=burpsuite&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-2e77bb?style=for-the-badge&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/Dirbuster-000000?style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Hashcat-ff0000?style=for-the-badge&logo=hackthebox&logoColor=white"/> <img src="https://img.shields.io/badge/John_The_Ripper-333333?style=for-the-badge&logo=keybase&logoColor=white"/> <img src="https://img.shields.io/badge/BloodHound-990000?style=for-the-badge&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-008cc1?style=for-the-badge&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/Impacket-2b2b2b?style=for-the-badge&logo=python&logoColor=white"/> </p>
 
 ---
 
