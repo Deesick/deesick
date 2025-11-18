@@ -75,9 +75,9 @@ I help test and secure enterprise systems, and also create clear, practical tech
 
 ## 🌐 My Website & TikTok
 
-<p align="center">
-  <a href="https://hackwithdeesick.com"> 
-    <img src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=google-chrome&logoColor=white" width="40px" alt="HackwithDeesick">
+<p>
+  <a href="https://hackwithdeesick.com">
+    <img src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://tiktok.com/@hackwithdeesick">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
