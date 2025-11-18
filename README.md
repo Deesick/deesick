@@ -21,7 +21,7 @@ I help test and secure enterprise systems, and I create clear, practical technic
 ## 🛠️ **Languages & Tools**
 <!-- Core Languages & Platforms -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,parrot,bash,powershell,python,php,js,html,markdown,css,windows,github,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,parrotOS,bash,powershell,python,php,js,html,markdown,css,windows,github,docker" />
 </p>
 
 <!-- Web Pentesting / Recon Tools -->
