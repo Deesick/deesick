@@ -1,13 +1,24 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<p align="center">
+  <a href="https://linkedin.com/in/deesick">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://twitter.com/deesick_">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter">
+  </a>
+</p>
+
+<h1 align="center">Hey! I'm Deesick</h1>
+
 I'm a Cybersecurity Professional and Web App Pentester in training.  
 I break apps, build secure systems, and write walkthroughs for Hack The Box.
 
 - 💻 **Role:** Pentester & Web App Security Engineer  
-- 🔥 Currently grinding: AD attacks, Web App Security, Linux privilege escalation on HackTheBox
-- 🎸 Sometimes I make music + Learning guitar + producing Afrobeats 🎶  
-- 📚 CPTS | CRTP | OSWE on the horizon 🤞🏽
-- 🎯 Fun fact: I create great tech content on TikTok and YouTube
+- 🔥 Currently grinding: AD attacks, Web App Security, Linux privilege escalation on HackTheBox  
+- 🎸 Sometimes I make music + learning guitar + producing Afrobeats 🎶  
+- 📚 CPTS | CRTP | OSWE on the horizon 🤞🏽  
+- 🎯 Fun fact: I create great tech content on TikTok and YouTube  
 
 ---
 
