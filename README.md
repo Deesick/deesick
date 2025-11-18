@@ -90,9 +90,4 @@ I help test and secure enterprise systems, and I create clear, practical technic
 
 ## 🏆 **GitHub Achievements**
 ![trophy](https://github-profile-trophy.vercel.app/?username=deesick&theme=tokyonight&margin-w=10)
-
----
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
