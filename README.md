@@ -14,11 +14,11 @@ I’m also a Technical Writer who creates clear, practical documentation that he
 
 Most of my technical writing lives at: [hackwithdeesick.com](https://hackwithdeesick.com/)
 
-- 💻 **Role:** Pentester & Web App Security Engineer  
+- 💻 Role: Pentester & Web App Security Engineer  
 - 🔥 Currently grinding: AD attacks, Web App Security, Linux privilege escalation on HackTheBox
 - 📚 CPTS | CRTP | OSWE on the horizon 🤞🏽  
 - 📺 I create great tech content on [TikTok](https://tiktok.com/hackwithdeesick) and YouTube
-- 🎸 Fun fact:  I also produce music when I'm not breaking applications 
+- 🎸 Fun fact: I also produce music when I'm not breaking applications 
 
 
 ## 🛠️ **Languages & Tools**
