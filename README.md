@@ -55,18 +55,3 @@ Most of my technical writing lives at: [hackwithdeesick.com](https://hackwithdee
   <img src="https://img.shields.io/badge/Binwalk-4b8bbe?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-
-## 📊 **Most Used Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deesick&layout=compact&theme=tokyonight)
-
-
-
-## 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deesick&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deesick&theme=tokyonight)
-
-
-
-## 🏆 **GitHub Achievements**
-![trophy](https://github-profile-trophy.vercel.app/?username=deesick&theme=tokyonight&margin-w=10)
